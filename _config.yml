@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+title: MH Old Gen Guides
+description: Guide per Monster Hunter Frontier Z e Freedom Unite
+show_downloads: false
+
+github:
+  is_project_page: true
