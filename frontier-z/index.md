@@ -3,6 +3,8 @@ layout: default
 title: Monster Hunter Frontier Z
 ---
 
+# Monster Hunter Frontier Z
+
 ## Per iniziare
 
 Per quanto riguarda l'attuale progressione, gli **HR1-4** dovrebbero essere considerati al massimo un tutorial esteso per le prime fasi del gioco. 
