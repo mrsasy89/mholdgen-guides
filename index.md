@@ -1,10 +1,3 @@
-Benvenuto nelle mie guide dedicate ai vecchi Monster Hunter.
-
-Qui troverai informazioni, consigli e build per:
-
-- **Monster Hunter Frontier Z**
-- **Monster Hunter Freedom Unite**
-
 ---
 
 ## Monster Hunter Frontier Z
