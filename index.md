@@ -3,8 +3,6 @@ layout: default
 title: MH Old Gen Guides
 ---
 
-# MH Old Gen Guides
-
 Benvenuto nelle mie guide dedicate ai vecchi Monster Hunter.
 
 Qui troverai informazioni, consigli e build per:
