@@ -19,7 +19,7 @@ Dopo aver completato le sei keys quest, apparirà una sezione molto evidente ded
 Di seguito vi descrivo il server e come partecipare:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## Raki Patch v1.1  
+### Raki Patch v1.1  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 si tratta di una modifica a i file di sistema sul game client, nello specifico;  
 
@@ -29,19 +29,19 @@ Modifiche effettuate: [MHF-ZZ-general-informations](https://tinyurl.com/MHF-ZZ-g
 - Ripristina la visualizzazione di anteprima dal fabbro delle weapon, armor, deco ect. quality of life rimossa da Capcom.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:wrench:](root://emoji/:wrench:) English Patch v4.1  
+### English Patch v4.1  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:arrow_right:](root://emoji/:arrow_right:) Traduzioni del gioco fatte dalla community internazionale delle parti principali del gioco. (work in progress).
+Traduzioni del gioco fatte dalla community internazionale delle parti principali del gioco. (work in progress).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:wrench:](root://emoji/:wrench:) Butter Translations v1.45  
+### Butter Translations v1.45  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:arrow_right:](root://emoji/:arrow_right:) Traduzioni in inglese dei dialoghi degli NPC in Monster Hunter Frontier Z fatta da LilButter con il quale collaboriamo direttamente per portare il gioco completamente in inglese. (work in progress).
+Traduzioni in inglese dei dialoghi degli NPC in Monster Hunter Frontier Z fatta da LilButter con il quale collaboriamo direttamente per portare il gioco completamente in inglese. (work in progress).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:screwdriver:](root://emoji/:screwdriver:) Guida all'Installazione del Client  
+## Guida all'Installazione del Client  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:arrow_down:](root://emoji/:arrow_down:) Scaricate qui il https://tinyurl.com/ZZClient
+Scaricate qui il https://tinyurl.com/ZZClient
 
 Assicuratevi di avere installato:
 
@@ -49,20 +49,19 @@ Assicuratevi di avere installato:
 - https://aka.ms/vs/17/release/vc_redist.x86.exe
 - https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-[:file_folder:](root://emoji/:file_folder:) Crea una cartella dove estrarre il client e aggiungila alle esclusioni dell'antivirus.  
+Crea una cartella dove estrarre il client e aggiungila alle esclusioni dell'antivirus.  
 se non sai come fare ti lascio qui una [video guida](root://invalid/) per Windows Defender.
 
-[:white_check_mark:](root://emoji/:white_check_mark:) Percorsi suggerti:  
+Percorsi suggerti:  
 `C:\MHFZ`  
 `C:\Users\xxx\MHFZ`  
 `D:\Games\MHFZ`
 
-[:x:](root://emoji/:x:) Percorsi non validi  
+Percorsi non validi  
 `C:\Program Files\MHFZ`  
 `C:\Users\xxx\OneDrive\MHFZ`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:joystick:](root://emoji/:joystick:) Selezionare il Server dal Launcher  
+Selezionare il Server dal Launcher  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 Apri `Monster Hunter Frontier Z Launcher.exe`  
 Clicca su `LOG IN` -> `Start Game`  
