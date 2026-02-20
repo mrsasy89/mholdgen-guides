@@ -3,7 +3,7 @@
 
 ## Monster Hunter Frontier Z
 
-- [Introduzione e installazione](frontier-z/index.md)
+- [Panoramica e installazione](frontier-z/index.md)
 - [Progressione e consigli](frontier-z/progression.md)
 - [Armi e stili (in arrivo)](frontier-z/weapons.md)
 
