@@ -45,9 +45,9 @@ Scaricate qui il https://tinyurl.com/ZZClient
 
 Assicuratevi di avere installato:
 
-- https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe
-- https://aka.ms/vs/17/release/vc_redist.x86.exe
-- https://aka.ms/vs/17/release/vc_redist.x64.exe
+- [DirectX End-User Runtimes (June 2010)](https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe)
+- [Microsoft Visual C++ Redistributable x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+- [Microsoft Visual C++ Redistributable x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 Crea una cartella dove estrarre il client e aggiungila alle esclusioni dell'antivirus.  
 se non sai come fare ti lascio qui una [video guida](root://invalid/) per Windows Defender.
