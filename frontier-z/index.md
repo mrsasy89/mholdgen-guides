@@ -61,6 +61,7 @@ Percorsi non validi
 `C:\Program Files\MHFZ`  
 `C:\Users\xxx\OneDrive\MHFZ`
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 Selezionare il Server dal Launcher  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 Apri `Monster Hunter Frontier Z Launcher.exe`  
