@@ -16,7 +16,7 @@ Vai a parlare con l'NPC "**General Quests**" al bancone centrale nella piazza de
 In questo menu dovrai selezionare **HR ★1**. Le missioni chiave sono chiaramente ordinate per prime con un'icona a forma di stella molto evidente.
 Dopo aver completato le sei keys quest, apparirà una sezione molto evidente dedicata alle **Urgent Quest**. Completala per passare al livello **HR★2**.
 
-Di seguito vi descrivo il server e come partecipare:
+Di seguito vi descrivo come partecipare:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 ### Raki Patch v1.1  
