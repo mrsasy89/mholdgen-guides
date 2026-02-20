@@ -3,6 +3,8 @@ layout: default
 title: Monster Hunter Frontier Z
 ---
 
+# Guida per la Progressione
+
 - [HR1/HR2 Low Rank](hr1-2.md)
 *Contenuto facile, equivalente al Low Rank degli altri giochi Monster Hunter. Serve a insegnare le basi del gioco*
 
