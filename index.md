@@ -4,8 +4,8 @@
 ## Monster Hunter Frontier Z
 
 - [Panoramica e introduzione](frontier-z/index.md)
+- [Progressione e consigli](frontier-z/progression.md)
 - [Armi e stili (in arrivo)](frontier-z/weapons.md)
-- [Progressione e consigli (in arrivo)](frontier-z/progression.md)
 
 ---
 
