@@ -17,10 +17,10 @@ In questo menu dovrai selezionare **HR ★1**. Le missioni chiave sono chiaramen
 Dopo aver completato le sei keys quest, apparirà una sezione molto evidente dedicata alle **Urgent Quest**. Completala per passare al livello **HR★2**.
 
 # Indice
-- [HR1/HR2 Low Rank](frontier-z/hr1-2.md)
+- [HR1/HR2 Low Rank](./hr1-2.md)
 *Contenuto facile, equivalente al Low Rank degli altri giochi Monster Hunter. Serve a insegnare le basi del gioco*
 
-- [HR3/HR4 High Rank](frontier-z/hr3-4.md)
+- [HR3/HR4 High Rank](./hr3-4.md)
 *Contenuto di difficoltà media o più difficile, equivalente all'High Rank. Il gioco inizia ad aspettarsi familiarità con la maggior parte dei sistemi e la capacità di creare set misti di equipaggiamento*
 
 - [HR5/HR6 Elite Rank](frontier-z/hr5-6.md)
