@@ -62,7 +62,7 @@ Percorsi non validi
 `C:\Users\xxx\OneDrive\MHFZ`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
-Selezionare il Server dal Launcher  
+## Selezionare il Server dal Launcher  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 Apri `Monster Hunter Frontier Z Launcher.exe`  
 Clicca su `LOG IN` -> `Start Game`  
