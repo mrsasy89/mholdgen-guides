@@ -19,13 +19,14 @@ Dopo aver completato le sei keys quest, apparirà una sezione molto evidente ded
 Di seguito vi descrivo il server e come partecipare:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[:wrench:](root://emoji/:wrench:) Raki Patch v1.1  
+## Raki Patch v1.1  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 si tratta di una modifica a i file di sistema sul game client, nello specifico;  
-[:arrow_right:](root://emoji/:arrow_right:) Ripristina le resistenze, stag limit, difesa ect. il più vicino possibile a quelli vanilla del gioco pre-nerf.  
-Modifiche effettuate: https://tinyurl.com/MHF-ZZ-general-informations
 
-[:arrow_right:](root://emoji/:arrow_right:) Ripristina la visualizzazione di anteprima dal fabbro delle weapon, armor, deco ect. quality of life rimossa da Capcom.
+- Ripristina le resistenze, stag limit, difesa ect. il più vicino possibile a quelli vanilla del gioco pre-nerf.  
+Modifiche effettuate: [MHF-ZZ-general-informations](https://tinyurl.com/MHF-ZZ-general-informations)
+
+- Ripristina la visualizzazione di anteprima dal fabbro delle weapon, armor, deco ect. quality of life rimossa da Capcom.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [:wrench:](root://emoji/:wrench:) English Patch v4.1  
